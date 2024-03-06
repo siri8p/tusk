@@ -4,6 +4,6 @@ beans
 pizza
 
 
-Thanks you
+
 final copy
 Done my changes
